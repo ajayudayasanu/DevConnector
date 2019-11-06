@@ -18,13 +18,13 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "concurrently": "^4.1.2",
-    "config": "^3.2.2",
+    "config": "^3.2.4",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.8",
-    "nodemon": "^1.19.2",
+    "nodemon": "^1.19.4",
     "request": "^2.88.0"
   }
 }
